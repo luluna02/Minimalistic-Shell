@@ -17,7 +17,7 @@ The Simple Minimalistic Shell is a program designed for launching other programs
   -The shell executes commands sequentially from the file.
   -Commands are executed one by one until the end of the file or the "quit" command is encountered.
   
-### Command Types
+## Command Types
 
   -Simple Command: Executes a single program with its specified arguments.
   -Compound Command: Contains special operations such as ;, &, &&, and || for sequential or parallel execution of commands or | pipe for output redirection.
